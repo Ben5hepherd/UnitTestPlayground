@@ -1,0 +1,6 @@
+C:\Users\Ben\source\repos\UnitTestPlayground\UnitTestPlayground.Domain\bin\Debug\UnitTestPlayground.Domain.dll
+C:\Users\Ben\source\repos\UnitTestPlayground\UnitTestPlayground.Domain\bin\Debug\UnitTestPlayground.Domain.pdb
+C:\Users\Ben\source\repos\UnitTestPlayground\UnitTestPlayground.Domain\obj\Debug\UnitTestPlayground.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Ben\source\repos\UnitTestPlayground\UnitTestPlayground.Domain\obj\Debug\UnitTestPlayground.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ben\source\repos\UnitTestPlayground\UnitTestPlayground.Domain\obj\Debug\UnitTestPlayground.Domain.dll
+C:\Users\Ben\source\repos\UnitTestPlayground\UnitTestPlayground.Domain\obj\Debug\UnitTestPlayground.Domain.pdb

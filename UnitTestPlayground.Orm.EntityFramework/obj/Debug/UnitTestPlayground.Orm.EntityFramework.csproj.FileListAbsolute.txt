@@ -1,0 +1,13 @@
+C:\Users\Ben\source\repos\UnitTestPlayground\UnitTestPlayground.Orm.EntityFramework\bin\Debug\UnitTestPlayground.Orm.EntityFramework.dll.config
+C:\Users\Ben\source\repos\UnitTestPlayground\UnitTestPlayground.Orm.EntityFramework\bin\Debug\UnitTestPlayground.Orm.EntityFramework.dll
+C:\Users\Ben\source\repos\UnitTestPlayground\UnitTestPlayground.Orm.EntityFramework\bin\Debug\UnitTestPlayground.Orm.EntityFramework.pdb
+C:\Users\Ben\source\repos\UnitTestPlayground\UnitTestPlayground.Orm.EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\Ben\source\repos\UnitTestPlayground\UnitTestPlayground.Orm.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ben\source\repos\UnitTestPlayground\UnitTestPlayground.Orm.EntityFramework\bin\Debug\UnitTestPlayground.Domain.dll
+C:\Users\Ben\source\repos\UnitTestPlayground\UnitTestPlayground.Orm.EntityFramework\bin\Debug\UnitTestPlayground.Domain.pdb
+C:\Users\Ben\source\repos\UnitTestPlayground\UnitTestPlayground.Orm.EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\Ben\source\repos\UnitTestPlayground\UnitTestPlayground.Orm.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ben\source\repos\UnitTestPlayground\UnitTestPlayground.Orm.EntityFramework\obj\Debug\UnitTestPlayground.Orm.EntityFramework.csprojResolveAssemblyReference.cache
+C:\Users\Ben\source\repos\UnitTestPlayground\UnitTestPlayground.Orm.EntityFramework\obj\Debug\UnitTestPlayground.Orm.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\Ben\source\repos\UnitTestPlayground\UnitTestPlayground.Orm.EntityFramework\obj\Debug\UnitTestPlayground.Orm.EntityFramework.dll
+C:\Users\Ben\source\repos\UnitTestPlayground\UnitTestPlayground.Orm.EntityFramework\obj\Debug\UnitTestPlayground.Orm.EntityFramework.pdb
